@@ -1,0 +1,23 @@
+{
+  "name": "game_dev_project",
+  "version": "1.0.0",
+  "description": "A game development project for learning purposes",
+  "main": "app.js",
+  "scripts": {
+    "bundle": "webpack"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "body-parser": "^1.18.3"
+  },
+  "devDependencies": {
+    "webpack": "^4.15.1",
+    "webpack-cli": "^3.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Dylan Dodds",
+  "license": "MIT"
+}
